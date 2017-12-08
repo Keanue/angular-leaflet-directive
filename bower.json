@@ -14,8 +14,7 @@
     "dist/angular-leaflet-directive.js"
   ],
   "dependencies": {
-    "angular": "1.x",
-    "leaflet": "1.0.0-beta.2"
+    "angular": "1.x"
   },
   "devDependencies": {
     "jquery": "*",
@@ -25,6 +24,7 @@
     "angular-route": "1.x",
     "angular-animate": "1.x",
     "angular-mocks": "1.x",
+    "leaflet": "https://github.com/Keanue/Leaflet.git#fixed",
     "leaflet.markercluster": "*",
     "leaflet.draw": "*",
     "Leaflet.label": "*",
